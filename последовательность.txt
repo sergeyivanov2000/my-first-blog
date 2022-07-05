@@ -1,0 +1,4 @@
+1: Развертка джанго > django-admin.exe startproject mysite .
+2: Создаем базу данных проекта > python manage.py migrate
+3: Запускаем сервер > python manage.py runserver
+Все делаем через консоль в активированном виртуальном окружении http://127.0.0.1:8000/ - адрес
